@@ -1,115 +1,70 @@
-<h1 align="center">Hey there 👋 I'm Aman🦅</h1>
+<h1 align="center">Hi, I'm Aman 🦅</h1>
 
 <p align="center">
-A passionate Full-Stack Developer based in India 🇮🇳 <br/>
-Focused on building high-performance, scalable web products.
+  <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-00FFAA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JAVA%20|%20DSA-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MERN%20STACK-blue?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+and+DSA+Enthusiast;Building+GramSeva+and+Pashu+Jagarak;Preparing+for+TCS+and+Accenture" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FFAA&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Systems;Full+Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Production-Ready+Backend+Architectures" />
-</p>
+## 🧠 About Me
+
+**Full-Stack Developer building community-focused digital solutions, hands-on with:**
+
+Frontend → Backend → Database → Deployment → Optimization
+
+- 🌱 Currently mastering **Advanced DSA in Java** and **System Design**.
+- 🛠️ Building **GramSeva**: Connecting villagers to government services.
+- 🐾 Created **Pashu Jagarak**: A web app for reporting wildlife incidents.
+- 🎯 Preparing for placements at **TCS, Accenture, and service-based leaders**.
 
 ---
 
-## 🚀 About Me
+## ⚙️ Technical Skills
 
-- 🌱 Currently mastering **Next.js (App Router), TypeScript & Scalable Backend Systems**
-- 🏢 Founder & Lead Developer at **Your Studio Name**
-- 🌐 Portfolio: https://yourportfolio.com
-- ✍️ Writing technical articles on https://dev.to/YOUR_USERNAME
-- 📫 Reach me at: yourmail@gmail.com
-
----
-
-## 🤝 Connect With Me
-
+### 💻 Programming & Core
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,github" />
+  </a>
+</p>
 
-<a href="https://dev.to/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/YOUR_INVITE">
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
+### 🌐 MERN Stack & Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind" />
+  </a>
 </p>
 
 ---
 
-# 🛠️ Tech Stack & Tools
-
-## Core
-
-<p>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
-
----
-
-# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-# 💡 Philosophy
-
+## 💡 Philosophy
 > Build clean.  
 > Scale smart.  
-> Ship fast. 🚀  
+> Ship fast. 🚀
 
 ---
 
 <p align="center">
-  ⚡ Always building something meaningful.
+  📫 <b>Let's Connect:</b> 
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
