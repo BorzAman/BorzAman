@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Aman 🦅</h1>
+<h1 align="center">Hi, I'm Aman 👋</h1>
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontSize=70)
 
 <p align="center">
   <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-00FFAA?style=for-the-badge">
