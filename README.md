@@ -1,17 +1,22 @@
-<h1 align="center">Hi, I'm Aman 👋</h1>
-
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontSize=70)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-00FFAA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DATA%20SCIENCE%20EXPLORER-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JAVA%20|%20DSA-purple?style=for-the-badge">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=00FFAA&height=200&section=header&text=Hi,%20I'm%20Aman%20🚀&fontSize=70&fontColor=00FFAA&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Exploring+Data+Science+%26+ML;Building+GramSeva+and+Pashu+Jagarak;MERN+Stack+Expert" />
+  <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-009955?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE%20EXPLORER-0055FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JAVA%20|%20DSA-009955?style=for-the-badge">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Exploring+Data+Science;Building+GramSeva" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Exploring+Data+Science+%26+ML;Building+GramSeva+and+Pashu+Jagarak" />
+</p> -->
+
+
 
 ---
 
@@ -49,21 +54,13 @@ Frontend → Backend → Database → Deployment → Data Insights
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=REPLACE_ME&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_ME&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=REPLACE_ME&theme=radical&hide_border=true"/>
 </p>
-
----
-
-## 💡 Philosophy
-> Build clean.  
-> Scale smart.  
-> Ship fast. 🚀
-
 ---
 
 <p align="center">
