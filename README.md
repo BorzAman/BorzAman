@@ -2,26 +2,26 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-00FFAA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE%20EXPLORER-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/JAVA%20|%20DSA-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MERN%20STACK-blue?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+and+DSA+Enthusiast;Building+GramSeva+and+Pashu+Jagarak;Preparing+for+TCS+and+Accenture" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Exploring+Data+Science+%26+ML;Building+GramSeva+and+Pashu+Jagarak;MERN+Stack+Expert" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-**Full-Stack Developer building community-focused digital solutions, hands-on with:**
+**Full-Stack Developer and Data Enthusiast building community-focused digital solutions:**
 
-Frontend → Backend → Database → Deployment → Optimization
+Frontend → Backend → Database → Deployment → Data Insights
 
-- 🌱 Currently mastering **Advanced DSA in Java** and **System Design**.
-- 🛠️ Building **GramSeva**: Connecting villagers to government services.
-- 🐾 Created **Pashu Jagarak**: A web app for reporting wildlife incidents.
-- 🎯 Preparing for placements at **TCS, Accenture, and service-based leaders**.
+- 🌱 Currently mastering **Advanced DSA in Java** and exploring the world of **Data Science**.
+- 🛠️ Building **GramSeva**: A digital bridge for rural government services.
+- 🐾 Created **Pashu Jagarak**: A platform for reporting wildlife incidents.
+- 🌐 Portfolio: [aman-98.vercel.app](https://aman-98.vercel.app/)
 
 ---
 
@@ -30,14 +30,14 @@ Frontend → Backend → Database → Deployment → Optimization
 ### 💻 Programming & Core
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,github" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,js,python,html,css,github" />
   </a>
 </p>
 
 ### 🌐 MERN Stack & Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,vercel" />
   </a>
 </p>
 
@@ -65,6 +65,7 @@ Frontend → Backend → Database → Deployment → Optimization
 
 <p align="center">
   📫 <b>Let's Connect:</b> 
+  <a href="https://aman-98.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00FFAA?style=flat-square&logo=vercel&logoColor=black" /></a>
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
