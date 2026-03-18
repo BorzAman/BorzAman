@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=00FFAA&height=200&section=header&text=Hi,%20I'm%20Aman%20🚀&fontSize=70&fontColor=00FFAA&animation=fadeIn" />
 </p>
-
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-009955?style=for-the-badge">
   <img src="https://img.shields.io/badge/DATA%20SCIENCE%20EXPLORER-0055FF?style=for-the-badge">
