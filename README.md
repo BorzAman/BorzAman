@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/JAVA%20|%20DSA-009955?style=for-the-badge">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Exploring+Data+Science;Building+GramSeva" />
 </p>
-
+ 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Exploring+Data+Science+%26+ML;Building+GramSeva+and+Pashu+Jagarak" />
 </p> -->
