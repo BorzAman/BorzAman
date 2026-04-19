@@ -1,4 +1,4 @@
-   
+    
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontSize=70)
 
 <p align="center">
@@ -12,10 +12,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Exploring+Data+Science;Building+GramSeva" />
 </p>
  
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Exploring+Data+Science+%26+ML;Building+GramSeva+and+Pashu+Jagarak" />
-</p> -->
-
 
  
 ---
