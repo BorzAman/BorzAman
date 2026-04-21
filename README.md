@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontSize=70)
-
+ 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=00FFAA&height=200&section=header&text=Hi,%20I'm%20Aman%20🚀&fontSize=70&fontColor=00FFAA&animation=fadeIn" />
 </p>
