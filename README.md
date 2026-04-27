@@ -16,7 +16,7 @@
  
 ---
 
-## 🧠 About ME
+## 🧠 About me
 
 **Full-Stack Developer and Data Enthusiast building community-focused digital solutions:**
 
