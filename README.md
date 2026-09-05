@@ -49,10 +49,7 @@ Frontend → Backend → Database → Deployment → Data Insights
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REPLACE_ME&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_ME&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=REPLACE_ME&theme=radical&hide_border=true"/>
