@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-009955?style=for-the-badge">
   <img src="https://img.shields.io/badge/DATA%20SCIENCE%20EXPLORER-0055FF?style=for-the-badge">
   <img src="https://img.shields.io/badge/JAVA%20|%20DSA-009955?style=for-the-badge">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Exploring+Data+Science;Building+GramSeva" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Exploring+Data+Science" />
 </p>
  
 
